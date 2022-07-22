@@ -1,7 +1,7 @@
 # Music_Player
 
 This Music Player is built in Android Studio
-By using two activities - activity_main.xml
+By using two activities - activity_main.xml and
                           activity_play_song.xml
                           
 In the AndroidManifest.xml file add the user permission right after the <manifest> tag and put it as 
