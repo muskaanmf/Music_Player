@@ -1,6 +1,6 @@
 # Music_Player
 
-# This Music Player is built in Android Studio
+# This Music Player is built using Android Studio
 By using two activities 
 - activity_main.xml
 - activity_play_song.xml
@@ -10,13 +10,14 @@ By using two activities
   
 # In the build gradle module file 
 add the third-party dependencies as
-implementation 'com.karumi:dexter:6.2.3'   --> copy paste this in the dependencies section
+implementation 'com.karumi:dexter:6.2.3'   --> Copy paste this into the dependencies section
 
 # Screenshot
-Here we have project screenshot :
+Here we have the project screenshot :
 
 ![screenshot](photo_2022-07-20_22-14-07.jpg)
-
-Futher more features can be added as your wish
+![screenshot](photo_2022-07-20_22-14-08 (2).jpg)
+![screenshot](photo_2022-07-20_22-14-08.jpg)
+Futher features can be added as you wish
 Hope this might be helpful to you
 Thank You :):
